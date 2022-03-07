@@ -1,0 +1,22 @@
+.button{
+    -fx-text-fill: green;
+    -fx-background-color: orange;
+    -fx-font-size: 20;
+    /*-fx-display-caret: ;*/
+}
+.button:hover{
+    -fx-text-fill: white;
+    -fx-background-color: black;
+}
+.root{
+    -fx-background-color: yellow;
+    -fx-border-color: blue;
+}
+.text-area{
+    /*-fx-control-inner-background: #000000;*/
+    -fx-control-inner-background: khaki;
+}
+.label{
+    -fx-text-fill: green;
+    -fx-font-size: 25;
+}
